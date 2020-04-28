@@ -6,4 +6,12 @@
 
 ![screenshot](/imgs/srx.png)
 
-5m+
+5h+, 5m+
+
+## KORAIL
+
+> `3uzgygkb6kv.sav`
+
+![screenshot](/imgs/korail.png)
+
+8h+, 3m+
